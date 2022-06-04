@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'nazadi danisan?';
+    src: url('Acidic.eot');
+    src: url('Acidic.eot?#iefix') format('embedded-opentype'),
+        url('Acidic.woff2') format('woff2'),
+        url('Acidic.woff') format('woff'),
+        url('Acidic.ttf') format('truetype'),
+        url('Acidic.svg#Acidic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
